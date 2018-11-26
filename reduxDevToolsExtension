@@ -1,0 +1,1 @@
+const reduxDevToolsExtension = window.devToolsExtension && window.devToolsExtension()
