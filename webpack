@@ -1,3 +1,5 @@
+// Taken from Medium article: https://medium.com/dailyjs/building-a-react-component-with-webpack-publish-to-npm-deploy-to-github-guide-6927f60b3220
+
 npm i react react-dom -D
 
 npm i webpack webpack-cli webpack-dev-server html-webpack-plugin style-loader css-loader babel-core babel-loader@7.1.4 babel-preset-env babel-preset-react -D
