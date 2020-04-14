@@ -66,6 +66,22 @@ Add additional notes about how to deploy this on a live system
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
+## Commit message rules
+
+Consider starting the commit message with an applicable emoji:
+
+- :recycle: `:recycle:` : with `env:` prefix.
+  - when set new development environment.
+- :gift: `:gift:` : with `feat:` prefix.
+  - when create new feature.
+- ✅ `:white_check_mark:` : with `test:` prefix.
+  - when adding tests.
+- 🐛 `:bug:` : with `fix:` prefix.
+  - when fixing a bug.
+- :memo: `:memo:` : with `docs:` prefix.
+  - when add document.
+
+
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
